@@ -1,3 +1,12 @@
+/*
+========================================================================================================================================
+    Calculate Horizontal Velocity Using MPU6050 Accelerometers Example.
+    GIT: https://github.com/UnkoIzumi/Horizontal-Velocity-Using-MPU6050_Accelerometers
+    LinkedIn: https://www.linkedin.com/in/ilhamfahmiar/
+    (c) 2022 by Ilham Fahmi Amri Rosada
+========================================================================================================================================
+*/
+
 #include <Adafruit_MPU6050.h>
 #include <Adafruit_Sensor.h>
 
